@@ -1,0 +1,1 @@
+print out information about your machine
